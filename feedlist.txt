@@ -14,7 +14,6 @@ https://old.reddit.com/r/nova/.rss
 https://old.reddit.com/r/UVA/.rss
 http://fivethirtyeight.com/all/feed
 http://www.newyorker.com/feed/everything
-http://digg.com/rss/index.xml
 http://feeds.wired.com/wired/index
 http://www.vox.com/rss/index.xml
 https://www.atlasobscura.com/feeds/latest
