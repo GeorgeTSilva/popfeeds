@@ -1,2 +1,14 @@
 https://old.reddit.com/r/popular/.rss
 https://old.reddit.com/top/.rss
+https://www.theverge.com/rss/index.xml
+http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
+https://www.washingtonpost.com/?outputType=rss
+https://feeds.npr.org/1002/rss.xml
+https://rss.politico.com/congress.xml
+https://www.axios.com/feeds/feed.rss
+http://feeds.feedburner.com/Metafilter
+https://news.ycombinator.com/rss
+https://www.arlnow.com/feed/
+https://wtop.com/local/feed/
+https://old.reddit.com/r/nova/.rss
+https://old.reddit.com/r/UVA/.rss
