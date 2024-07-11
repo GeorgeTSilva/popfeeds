@@ -12,8 +12,8 @@ https://www.arlnow.com/feed/
 https://wtop.com/local/feed/
 https://old.reddit.com/r/nova/.rss
 https://old.reddit.com/r/UVA/.rss
+https://old.reddit.com/r/WellesleyCollege/.rss
 http://fivethirtyeight.com/all/feed
-http://www.newyorker.com/feed/everything
 https://www.wired.com/feed/rss
 http://www.vox.com/rss/index.xml
 https://www.atlasobscura.com/feeds/latest
