@@ -1,3 +1,7 @@
 https://old.reddit.com/r/popular/.rss
 https://old.reddit.com/top/.rss
 http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
+https://www.arlnow.com/feed/
+https://old.reddit.com/r/nova/.rss
+https://old.reddit.com/r/UVA/.rss
+https://old.reddit.com/r/WellesleyCollege/.rss
