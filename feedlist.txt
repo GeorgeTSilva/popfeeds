@@ -7,3 +7,4 @@ http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
 https://www.arlnow.com/feed/
 https://wtop.com/local/feed/
 https://news.ycombinator.com/rss
+https://www.washingtonian.com/feed/
