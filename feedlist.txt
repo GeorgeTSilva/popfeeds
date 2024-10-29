@@ -1,1 +1,3 @@
+https://old.reddit.com/r/popular/.rss
+https://old.reddit.com/top/.rss
 http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
