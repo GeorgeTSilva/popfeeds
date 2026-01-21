@@ -9,3 +9,6 @@ https://www.washingtonian.com/feed/
 https://news.ycombinator.com/rss
 http://feeds.arstechnica.com/arstechnica/index
 https://www.wired.com/feed/rss
+https://www.smithsonianmag.com/rss/latest_articles/
+https://www.atlasobscura.com/feeds/latest
+https://kagi.com/api/v1/smallweb/feed
