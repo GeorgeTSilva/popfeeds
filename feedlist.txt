@@ -1,3 +1,5 @@
+https://old.reddit.com/r/popular/.rss
+https://old.reddit.com/r/nova/.rss
 http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
 https://feeds.npr.org/1002/rss.xml
 https://www.arlnow.com/feed/
@@ -10,3 +12,4 @@ https://www.smithsonianmag.com/rss/latest_articles/
 https://www.atlasobscura.com/feeds/latest
 https://kagi.com/api/v1/smallweb/feed
 https://indieblog.page/dailyfeed?num=10
+https://weather-broker-cdn.api.bbci.co.uk/en/forecast/rss/3day/4140963
