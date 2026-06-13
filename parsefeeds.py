@@ -38,8 +38,11 @@ joutput = output
 output +="<span class='sorter'><a href='./jumble.html'> jumble </a> </span></p></div> <div id='wrapper'>" 
 joutput +="<span class='sorter'><a href='./'> sort </a></span> </p></div> <div id='jumblewrapper'>" 
 
+# Define a unique user agent identifying your tool
+my_user_agent = "Python:PopfeedsRSSReader:v1.0 (by /u/g_t_s)"
+
 for url in feedlist:
-    f = feedparser.parse(url)
+    f = feedparser.parse(url, agent=my_user_agent)
     # to debug which feed might be failing, uncomment this
     #print (f['feed']['title'])
     if f['feed']['title']:
