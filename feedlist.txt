@@ -1,7 +1,5 @@
-https://siftrss.com/f/lnWb88r55v
-https://siftrss.com/f/QwNGewlGL5
-https://siftrss.com/f/G6x09Ana53P
-https://siftrss.com/f/1DLq7ev8al
+https://old.reddit.com/r/popular/.rss
+https://old.reddit.com/r/nova/.rss
 http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
 https://feeds.npr.org/1002/rss.xml
 https://www.arlnow.com/feed/
