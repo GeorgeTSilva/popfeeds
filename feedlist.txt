@@ -1,6 +1,16 @@
+
 https://old.reddit.com/.rss?feed=6988c6ff9318162fc7d422058a3463ca4a81d2cb&user=g_t_s
 https://old.reddit.com/r/popular/.rss?feed=6988c6ff9318162fc7d422058a3463ca4a81d2cb&user=g_t_s
 https://old.reddit.com/r/nova/.rss?feed=6988c6ff9318162fc7d422058a3463ca4a81d2cb&user=g_t_s
 http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
 https://feeds.npr.org/1002/rss.xml
 https://www.arlnow.com/feed/
+https://wtop.com/local/feed/
+https://www.washingtonian.com/feed/
+https://news.ycombinator.com/rss
+http://feeds.arstechnica.com/arstechnica/index
+https://www.wired.com/feed/rss
+https://www.smithsonianmag.com/rss/latest_articles/
+https://www.atlasobscura.com/feeds/latest
+https://weather-broker-cdn.api.bbci.co.uk/en/forecast/rss/3day/4140963
+https://weather-broker-cdn.api.bbci.co.uk/en/observation/rss/4140963
