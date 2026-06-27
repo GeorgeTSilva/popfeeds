@@ -45,7 +45,7 @@ for url in feedlist:
     f = feedparser.parse(url, agent=my_user_agent)
     # to debug which feed might be failing, uncomment this
     #print (f['feed']['title'])
-    if f['feed']['title']:
+    if f.get('feed', {}).get('title'):
         site = f['feed']['title']
     else:
         site = f['feed']
