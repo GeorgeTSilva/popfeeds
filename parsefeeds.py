@@ -43,12 +43,12 @@ my_user_agent = "Python:PopfeedsRSSReader:v1.0 (by /u/g_t_s)"
 
 for url in feedlist:
     f = feedparser.parse(url, agent=my_user_agent)
-    # to debug which feed might be failing, uncomment this
-    #print (f['feed']['title'])
-    if f.get('feed', {}).get('title'):
-        site = f['feed']['title']
-    else:
-        site = f['feed']
+    # 1. Add this check to skip broken feeds entirely
+    if not f.get('feed', {}).get('title'):
+        print(f"Skipping broken or rate-limited feed...")
+        continue 
+    # 2. Assign your site variable normally
+    site = f['feed']['title']
     # make id by getting rid of spaces and non-alphanumerics
     siteid = pattern.sub('', site.strip().replace(" ",""))
     moreid = "more" + siteid 
