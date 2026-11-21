@@ -1,4 +1,3 @@
-https://hushread.com/rss.xml
 https://lemmy.world/feeds/all.xml?sort=Hot
 http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
 https://www.washingtonsun.com/index.rss
