@@ -1,6 +1,5 @@
-https://www.reddit.com/.rss?feed=6988c6ff9318162fc7d422058a3463ca4a81d2cb&user=g_t_s
-https://www.reddit.com/r/popular/.rss?feed=6988c6ff9318162fc7d422058a3463ca4a81d2cb&user=g_t_s
-https://www.reddit.com/r/nova/.rss?feed=6988c6ff9318162fc7d422058a3463ca4a81d2cb&user=g_t_s
+https://hushread.com/rss.xml
+https://lemmy.world/feeds/all.xml?sort=Hot
 http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
 https://www.washingtonsun.com/index.rss
 https://feeds.npr.org/1002/rss.xml
